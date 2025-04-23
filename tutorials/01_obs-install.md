@@ -51,7 +51,7 @@ Refer to the [Linux install instructions](https://obsproject.com/wiki/install-in
 
 ## 🚀 Step 3 – First Launch & Auto Setup
 
-![OBS homepage demo](../assets/screenshots/obs-interface-new.png) 
+
 
 1. Open OBS Studio for the first time.
 2. You’ll be prompted to run the **Auto-Configuration Wizard**:
