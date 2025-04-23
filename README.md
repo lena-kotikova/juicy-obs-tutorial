@@ -12,8 +12,8 @@ This repo is organized to make your OBS journey smooth and simple:
 
 ```shell
 juicy-obs-tutorials/
-├── <strong>README.md</strong>                  — Welcome intro + how to use the toolkit
-├── <strong>tutorials/</strong>                 — Step-by-step beginner guides (Markdown format)
+├── README.md                  — Welcome intro + how to use the toolkit
+├── tutorials/                 — Step-by-step beginner guides (Markdown format)
 │   ├── 01_obs-install.md             — Installing OBS Studio
 │   ├── 02_connecting-to-juicy.md     — Connect OBS to Juicy (custom server URL)
 │   ├── 03_adding-overlays.md         — Add overlays, capture screen and audio
@@ -21,15 +21,15 @@ juicy-obs-tutorials/
 │   ├── 05_fix-lag.md                 — Troubleshoot lag and performance issues
 │   ├── 06_hotkeys-scenes.md          — Create scenes and assign hotkeys
 │   └── 07_offline-recording.md       — Record offline without streaming
-├── <strong>assets/</strong>                    — Downloadable content for stream customization
+├── assets/                    — Downloadable content for stream customization
 │   ├── juicy-scene-template.json     — Starter OBS scene layout
 │   ├── overlays-pack.zip             — Free overlay pack
 │   └── thumbnails/                   — Optional cover art for tutorials
-├── <strong>videos/</strong>                    — Companion video content (YouTube, Juicy)
+├── videos/                    — Companion video content (YouTube, Juicy)
 │   └── video-links.md                — List of tutorial video links
-├── <strong>settings/</strong>                  — Optional OBS profiles or presets
+├── settings/                  — Optional OBS profiles or presets
 │   └── beginner-preset.json          — OBS starter config for beginners
-└── <strong>LICENSE</strong>                   — License for using and sharing this content
+└── LICENSE                   — License for using and sharing this content
 ```
 
 ---
