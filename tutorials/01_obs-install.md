@@ -30,7 +30,7 @@ And best of all — it’s free!
 
 > ⚠️ Important: Only download OBS from the official site to avoid security risks.
 
----
+![OBS homepage showing download buttons](../assets/obs-homepage.gif)
 
 ## ⚙️ Step 2 – Install OBS
 
