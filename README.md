@@ -2,6 +2,8 @@
 
 Welcome to **Juicy OBS Tutorials** — your complete beginner-friendly toolkit to get started with streaming using OBS Studio!
 
+This toolkit is built especially for creators using the [JUICY](enjoyjuicy.com) platform (or any platform with custom RTMP) to stream sexy, creative, or chaotic content with confidence.
+
 Whether you’re brand new to streaming or just want to polish your setup with overlays, custom hotkeys, or offline recording tips — this guide is for you.
 
 ---
@@ -12,8 +14,8 @@ This repo is organized to make your OBS journey smooth and simple:
 
 ```shell
 juicy-obs-tutorials/
-├── README.md                  — Welcome intro + how to use the toolkit
-├── tutorials/                 — Step-by-step beginner guides (Markdown format)
+├── README.md                         — Welcome intro + how to use the toolkit
+├── tutorials/                        — Step-by-step beginner guides (Markdown format)
 │   ├── 01_obs-install.md             — Installing OBS Studio
 │   ├── 02_connecting-to-juicy.md     — Connect OBS to Juicy (custom server URL)
 │   ├── 03_adding-overlays.md         — Add overlays, capture screen and audio
@@ -21,15 +23,15 @@ juicy-obs-tutorials/
 │   ├── 05_fix-lag.md                 — Troubleshoot lag and performance issues
 │   ├── 06_hotkeys-scenes.md          — Create scenes and assign hotkeys
 │   └── 07_offline-recording.md       — Record offline without streaming
-├── assets/                    — Downloadable content for stream customization
+├── assets/                           — Downloadable content for stream customization
 │   ├── juicy-scene-template.json     — Starter OBS scene layout
 │   ├── overlays-pack.zip             — Free overlay pack
 │   └── thumbnails/                   — Optional cover art for tutorials
-├── videos/                    — Companion video content (YouTube, Juicy)
+├── videos/                           — Companion video content (YouTube, Juicy)
 │   └── video-links.md                — List of tutorial video links
-├── settings/                  — Optional OBS profiles or presets
+├── settings/                         — Optional OBS profiles or presets
 │   └── beginner-preset.json          — OBS starter config for beginners
-└── LICENSE                   — License for using and sharing this content
+└── LICENSE                           — License for using and sharing this content
 ```
 
 ---
@@ -65,9 +67,10 @@ No prior experience needed — each guide is written with total beginners in min
 
 ## ❤️ Contribute or Share
 
+Follow [Léna Kotikova](https://enjoyjuicy.com/me/lena_kotikova) & [The Jaded Orchid](https://enjoyjuicy.com/me/JadedOrchid) on Juicy!
+
 Suggestions? Found a typo? Wanna help out?  
 Feel free to fork the repo or open a pull request.
-
 Need help or want to chat? Join us on the [Juicy Discord](https://discord.gg/DEp4HsmrN).
 
 ---
