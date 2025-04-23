@@ -10,25 +10,27 @@ Whether you’re brand new to streaming or just want to polish your setup with o
 
 This repo is organized to make your OBS journey smooth and simple:
 
+```shell
 juicy-obs-tutorials/
-├── README.md                      <- Welcome intro + how to use the toolkit
-├── tutorials/                     <- Step-by-step guides (Markdown format)
-│   ├── 01_obs-install.md
-│   ├── 02_connecting-to-juicy.md
-│   ├── 03_adding-overlays.md
-│   ├── 04_record-and-stream.md
-│   ├── 05_fix-lag.md
-│   ├── 06_hotkeys-scenes.md
-│   └── 07_offline-recording.md
-├── assets/                        <- Files creators can download
-│   ├── juicy-scene-template.json
-│   ├── overlays-pack.zip
-│   └── thumbnails/                <- Optional cover art for tutorials
-├── videos/                        <- Links to published YouTube or JUICY videos
-│   └── video-links.md
-├── settings/                      <- Optional OBS profiles or export configs
-│   └── beginner-preset.json
-└── LICENSE           
+├── <strong>README.md</strong>                  — Welcome intro + how to use the toolkit
+├── <strong>tutorials/</strong>                 — Step-by-step beginner guides (Markdown format)
+│   ├── 01_obs-install.md             — Installing OBS Studio
+│   ├── 02_connecting-to-juicy.md     — Connect OBS to Juicy (custom server URL)
+│   ├── 03_adding-overlays.md         — Add overlays, capture screen and audio
+│   ├── 04_record-and-stream.md       — Record or stream your content
+│   ├── 05_fix-lag.md                 — Troubleshoot lag and performance issues
+│   ├── 06_hotkeys-scenes.md          — Create scenes and assign hotkeys
+│   └── 07_offline-recording.md       — Record offline without streaming
+├── <strong>assets/</strong>                    — Downloadable content for stream customization
+│   ├── juicy-scene-template.json     — Starter OBS scene layout
+│   ├── overlays-pack.zip             — Free overlay pack
+│   └── thumbnails/                   — Optional cover art for tutorials
+├── <strong>videos/</strong>                    — Companion video content (YouTube, Juicy)
+│   └── video-links.md                — List of tutorial video links
+├── <strong>settings/</strong>                  — Optional OBS profiles or presets
+│   └── beginner-preset.json          — OBS starter config for beginners
+└── <strong>LICENSE</strong>                   — License for using and sharing this content
+```
 
 ---
 
