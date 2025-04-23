@@ -67,11 +67,11 @@ No prior experience needed — each guide is written with total beginners in min
 
 ## ❤️ Contribute or Share
 
-Follow [Léna Kotikova](https://enjoyjuicy.com/me/lena_kotikova) & [The Jaded Orchid](https://enjoyjuicy.com/me/JadedOrchid) on Juicy!
+Need help or want to connect? Join us in the [JUICY Discord](https://discord.gg/DEp4HsmrN) or check out our creator content on JUICY!
+[Lena Link](https://enjoyjuicy.com/me/lena_kotikova) & [Jaded Link](https://enjoyjuicy.com/me/JadedOrchid)
 
 Suggestions? Found a typo? Wanna help out?  
 Feel free to fork the repo or open a pull request.
-Need help or want to chat? Join us on the [Juicy Discord](https://discord.gg/DEp4HsmrN).
 
 ---
 
