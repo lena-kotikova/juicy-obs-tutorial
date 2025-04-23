@@ -45,6 +45,8 @@ And best of all — it’s free!
 Installation depends on your distribution.  
 Refer to the [Linux install instructions](https://obsproject.com/wiki/install-instructions#linux) from OBS’s official documentation.
 
+![OBS homepage demo](../assets/screenshots/obs-install-screen.png)
+
 ---
 
 ## 🚀 Step 3 – First Launch & Auto Setup
