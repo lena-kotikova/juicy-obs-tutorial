@@ -26,7 +26,7 @@ And best of all — it’s free!
    - **Linux**
 3. Click **Download Installer** and save the file.
 
-![OBS homepage showing download buttons](assets/obs-homepage.jpg)
+![OBS homepage showing download buttons](../assets/screenshots/obs-homepage.jpg)
 
 > ⚠️ Important: Only download OBS from the official site to avoid security risks.
 
