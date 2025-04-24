@@ -48,6 +48,8 @@ To customize your stream, you’ll need some overlays. These can be:
 3. Select your MP4 file > enable **Loop** if needed
 4. Resize and place it as you like
 
+![OBS homepage demo](../assets/screenshots/adding-overlays-2b.mp4)
+
 ---
 
 ## 🖥️ Step 3 – Capture Your Content (Screen, Game, or App)
