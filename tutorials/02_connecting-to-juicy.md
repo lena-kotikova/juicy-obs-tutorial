@@ -43,6 +43,8 @@ Set up OBS to stream to Juicy using:
 3. If everything is set up correctly, your stream should go live on Juicy within a few seconds.
 4. Start
 
+![OBS homepage demo](../assets/screenshots/connecting-steps.jpg)
+
 ---
 
 ## 🧪 Troubleshooting Tips
