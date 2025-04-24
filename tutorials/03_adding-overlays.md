@@ -27,6 +27,8 @@ To customize your stream, you’ll need some overlays. These can be:
 - [Streamlabs Overlay Library](https://streamlabs.com/library/)
 - [Hexeum – Free Stream Designs](https://hexeum.net/designs/free-stream-overlays/)
 
+![OBS homepage demo](../assets/screenshots/adding-overlays-example.jpg)
+
 ---
 
 ## 🖼️ Step 2 – Add an Image or Video Overlay
@@ -37,6 +39,8 @@ To customize your stream, you’ll need some overlays. These can be:
 3. Name it (e.g., `Webcam Frame`) and click **OK**
 4. Click **Browse**, select your PNG file, then click **OK**
 5. Resize and position it in the preview window
+
+![OBS homepage demo](../assets/screenshots/adding-overlays-2a.jpg)
 
 ### To add a video overlay:
 1. Click **+** > **Media Source**
