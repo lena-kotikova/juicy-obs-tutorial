@@ -69,6 +69,8 @@ Before you move on, make sure:
 - Your **microphone** and **speakers/headphones** are working under **Settings** > **Audio**
 - OBS shows a preview of your screen or webcam when you add a source
 
+![OBS homepage demo](../assets/screenshots/obs-AV.jpg)
+
 If everything looks good — you’re ready for the next step!
 
 ---
