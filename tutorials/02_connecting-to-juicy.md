@@ -1,5 +1,7 @@
 # 02 – Connecting to Juicy with a Custom Server URL and Stream Key
 
+![OBS homepage demo](../assets/screenshots/connecting-intro.jpg)
+
 In this guide, you’ll learn how to connect OBS to a custom streaming server — in our case, Juicy — using a custom **server URL** and **stream key**.
 
 This setup allows you to stream to Juicy without using the built-in services like Twitch or YouTube.
